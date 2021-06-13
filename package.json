@@ -1,0 +1,7 @@
+{
+  "name": "cache-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "thiaguinhocoding <thiaguinhocoding@gmail.com>",
+  "license": "MIT"
+}
